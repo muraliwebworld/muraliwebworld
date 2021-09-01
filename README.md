@@ -1,4 +1,4 @@
-I am Muralidharan Ramasamy from Shiradi Avenue, Keeranatham, Coimbatore, Coimbatore district, Tamil Nadu, India
+I am Muralidharan Ramasamy from Shiradi Avenue, Keeranatham, Coimbatore, Coimbatore district, Tamil Nadu, India.
 I work as software engineer also owner of indiacitys.com technologies. 
 Developed and owner of websites indiacitys.com, indiacities.in, madrasclassifieds.com and india cities forum (Android app), Chennai community (Android app)
 In my company we provide software development using NodeJs, REACTJS, REDUX middleware, AXIOS, AWS services like Appsync, Amplify, DynamoDB, lambda, Firebase cloud functions, Django, WordPress, PHP, MYSQL, Python and also provide Mobile app development in Kotlin
