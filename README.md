@@ -5,4 +5,4 @@ In my company we provide software development using NodeJs, REACTJS, REDUX middl
 I have 20+ years of professional experience in various phases of software life-cycle to provide business enhancements, production support, managing insurance and banking application projects in USA, EUROPE and India.
 Apart from open system skills, I also worked in IBM Mainframe Assembler, COBOL, MQ REXX, DTL, CLIST, IDMS, ADS, CULPRIT, SAS, PL/I, IMS (DB/DC) ,DB2, VSAM, JCL CICS
 Tools:CA-7, WBI, Informatica POWERCENTER, Test Director, AUTOSYS, OPC, XPEDITOR, ENDEVOR, FILE-AID, INTERTEST.
-My native place in Thirunagar, Gobichettipalayam, Erode district, Tamil Nadu, India
+My native place is Thirunagar, Gobichettipalayam, Erode district, Tamil Nadu, India
